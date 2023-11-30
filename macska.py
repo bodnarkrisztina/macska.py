@@ -1,3 +1,3 @@
 import streamlit as st
 
-layer = st.write('white large square')
+layer = st.write('⬜')
